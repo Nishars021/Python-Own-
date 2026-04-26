@@ -1,4 +1,5 @@
-a=int(input("Enter a number : "))
-b=int(input("Enter the power : "))
-c=a**b
-print(c)
+a='2'
+b=3
+text='@'
+
+print((a+text)*b)

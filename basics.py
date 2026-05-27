@@ -15,6 +15,12 @@
 # print("Have a good day.", end=' ')
 # print("Learning Python is fun!")
 
-x="Nisha"
-x=2
-print(x)
+# x=3
+# y='a'
+# z=1.00
+# print(type(x)); print(type(y)); print(type(z))
+
+a = 4
+A = "Sally" #A will not overwrite a
+print(A)
+print(a)

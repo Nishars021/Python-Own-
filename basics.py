@@ -11,6 +11,6 @@
 # print(c)
 # print(d)
 
-print('Hello World!')
+print('Hello World!', end=' ')
 print("Have a good day.")
 print("Learning Python is fun!")

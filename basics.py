@@ -11,6 +11,10 @@
 # print(c)
 # print(d)
 
-print('Hello World!', end=' ')
-print("Have a good day.")
-print("Learning Python is fun!")
+# print('Hello World!', end=' ')
+# print("Have a good day.", end=' ')
+# print("Learning Python is fun!")
+
+x="Nisha"
+x=2
+print(x)

@@ -36,7 +36,15 @@
 # print(y)
 # print(z)
 
-x = 1
-y = 2
-z = 5
-print(x, y, z)
+# x = 1
+# y = "nisha"
+# z = 5
+# print(x , y , z)
+
+x = "awesome"
+def myfunc():
+    global x
+    x = "fantastic"
+    print("Python is " + x)
+myfunc()
+print("Python is " + x)

@@ -20,7 +20,12 @@
 # z=1.00
 # print(type(x)); print(type(y)); print(type(z))
 
-a = 4
-A = "Sally" #A will not overwrite a
-print(A)
-print(a)
+# a = 4
+# A = "Sally" #A will not overwrite a
+# print(A)
+# print(a)
+
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)

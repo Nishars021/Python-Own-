@@ -26,7 +26,7 @@
 # print(a)
 
 # fruits = ["Orange", "Banana", "Cherry"]
-# x, y, z = fruits
+# x, y, z = fruits #Unpacking
 # print(x)
 # print(y)
 # print(z)
@@ -41,10 +41,4 @@
 # z = 5
 # print(x , y , z)
 
-x = "awesome"
-def myfunc():
-    global x
-    x = "fantastic"
-    print("Python is " + x)
-myfunc()
-print("Python is " + x)
+

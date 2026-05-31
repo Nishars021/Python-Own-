@@ -18,7 +18,8 @@
 x=3
 y="a"
 z=1.23
-print(type(x)); print(type(y)); print(type(z))
+a=False
+print(type(x)); print(type(y)); print(type(z)); print(type(a))
 
 # a = 4
 # A = "Sally" #A will not overwrite a

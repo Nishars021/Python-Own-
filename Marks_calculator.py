@@ -1,7 +1,7 @@
 #MArks in 5 subjects
-sub1 = 65
+sub1 = 30
 sub2 = 90
-sub3 = 87
+sub3 = 20
 sub4 = 96
 sub5 = 76
 
@@ -14,29 +14,29 @@ perc = (total/500) * 100
 
 #Display Pass or Fail
 if sub1 >= 35 :
-    print("Pass")
+    print("Pass in subject 1")
 else :
-    print("Fail")
+    print("Fail in subject 1")
 
 if sub2 >= 35 :
-    print("Pass")
+    print("Pass in subject 2")
 else :
-    print("Fail")
+    print("Fail in subject 2")
 
 if sub3 >= 35 :
-    print("Pass")
+    print("Pass in subject 3")
 else :
-    print("Fail")
+    print("Fail in subject 3")
     
 if sub4 >= 35 :
-    print("Pass")
+    print("Pass in subject 4")
 else :
-    print("Fail")
+    print("Fail in subject 4")
 
 if sub5 >= 35 :
-    print("Pass")
+    print("Pass in subject 5")
 else :
-    print("Fail")
+    print("Fail in subject 5")
 
 #Display grade
 if perc >= 90 : 

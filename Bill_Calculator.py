@@ -20,5 +20,6 @@ if subtotal >= 1000 :
     print("Discount Price : ",disc_price)
 
 #Display final bill
-
+total = subtotal - disc_price
+print("Total amount : ",total)
 

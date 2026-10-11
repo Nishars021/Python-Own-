@@ -1,5 +1,5 @@
 #Weight in kg
-weight_kg = 52
+weight_kg = 29
 
 #Height in m
 height_m = 151

@@ -9,7 +9,7 @@ total_ball = price_ball*quan_ball
 
 price_book = 55
 quan_book = 12
-total_book = price_book*quan*book
+total_book = price_book*quan_book
 
 #Calculate subtotal
 subtotal = total_pen + total_ball + total_book

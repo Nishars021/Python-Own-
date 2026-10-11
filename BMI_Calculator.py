@@ -22,4 +22,3 @@ if weight_kg >= 25 and weight_kg < 29.9 :
 
 if weight_kg > 30 : 
     print("Obesity")
-

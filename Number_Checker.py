@@ -19,6 +19,8 @@ if int_value % 2 != 0 :
     print("Value is Odd")
 
 #Check whether it is divisible by 5
-if int_value % 5 != 0 :
+if int_value % 5 == 0 :
     print("Value is divisible by 5")
 
+else : 
+    print("Value is not dividible by 5")

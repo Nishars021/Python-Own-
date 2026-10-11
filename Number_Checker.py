@@ -1,5 +1,5 @@
 #Integer
-int_value = 12
+int_value = 15
 
 #Check whether it is positive, negative or zero
 if int_value > 0 : 

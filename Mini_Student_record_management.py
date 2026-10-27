@@ -12,6 +12,10 @@ print(student.items())
 s_id = int(input("Enter ID : "))
 
 if s_id in student["id"] : 
-    i = 
+    i = student["id"].index(s_id)
 
+    print("Name : ",student["name"][i])
+    print("Marks : ",student["marks"][i])
+else :
+    print("Student not found")
 

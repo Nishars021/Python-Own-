@@ -12,6 +12,6 @@ print(student.items())
 s_id = int(input("Enter ID : "))
 
 if s_id in student["id"] : 
-    
+    i = 
 
 

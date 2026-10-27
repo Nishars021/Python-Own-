@@ -6,10 +6,12 @@ student = {
 }
 
 #View all student records
-print(student.items())
+# print(student.items())
 
 #Search for student using their ID
-print("\n",student.get("id"))
+# print("\n",student.get("id"))
 
 #Update student details
-print("\n", student.update({"marks"[2] : 95}))
+print("\n", student.update({"marks":95}))
+
+

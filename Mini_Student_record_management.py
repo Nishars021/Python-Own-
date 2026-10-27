@@ -9,4 +9,7 @@ student = {
 print(student.items())
 
 #Search for student using their ID
-print("\n",student.keys())
+print("\n",student.get("id"))
+
+#Update student details
+print("\n", student.update({"marks"[2] : 95}))

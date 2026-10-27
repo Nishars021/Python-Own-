@@ -7,3 +7,6 @@ student = {
 
 #View all student records
 print(student.items())
+
+#Search for student using their ID
+print("\n",student.keys())

@@ -6,12 +6,12 @@ student = {
 }
 
 #View all student records
-# print(student.items())
+print(student.items())
 
 #Search for student using their ID
-# print("\n",student.get("id"))
+s_id = int(input("Enter ID : "))
 
-#Update student details
-print("\n", student.update({"marks":95}))
+if s_id in student["id"] : 
+    
 
 

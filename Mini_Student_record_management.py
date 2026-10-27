@@ -5,8 +5,8 @@ student = {
     "marks" : [91,93,94,96]
 }
 
-#View all student records
-print(student.items())
+# #View all student records
+# print(student.items())
 
 #Search for student using their ID
 s_id = int(input("Enter ID : "))

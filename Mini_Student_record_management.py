@@ -1,6 +1,7 @@
 #Add student records
 student = {
     "name" : ["Nisha","Harsha","Harshita","Parnika"],
+    "id" : [101,102,103,104],
     "marks" : [91,93,94,96]
 }
 
